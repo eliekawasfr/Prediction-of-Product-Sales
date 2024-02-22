@@ -15,5 +15,4 @@
 ![itemssale histogram](https://github.com/eliekawasfr/Prediction-of-Product-Sales/assets/34871626/c289f751-ace4-4fe0-af2f-289f6dbcc4ea)
 ![download (2)](https://github.com/eliekawasfr/Prediction-of-Product-Sales/assets/34871626/e7b06faf-7c75-449d-beb4-7c5a226573e4)
 
-- ## observing the previous histogram and boxplot we can tell that most sales were closer to 2000 USD (1794.331000 usd median) ,but some outliers exist in the range of more than 6501.8699 USD
-which means lower value transactions were the most processed (lower value of Item sale outlet occured the most)
+- ## observing the previous histogram and boxplot we can tell that most sales were closer to 2000 USD (1794.331000 usd median) ,but some outliers exist in the range of more than 6501.8699 USD. which means lower value transactions were the most processed (lower value of Item sale outlet occured the most)

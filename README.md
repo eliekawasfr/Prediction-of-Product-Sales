@@ -9,10 +9,10 @@
 
 ![download (4)](https://github.com/eliekawasfr/Prediction-of-Product-Sales/assets/34871626/567792e7-dba6-405c-b710-71ca56ac38ea)
 
-- ## from exploring the previous graphs we can tell that the type 3 supermarket has the most sales, (no necessarly most profitable), along side the supermarket type 1, also  we can see the outlets that were established 2004 is catching up to the original outlets established in 1985 which has sold more
+- ## from exploring the previous graphs we can tell that the type 3 supermarket has the most sales, along side the supermarket type 1, also  we can see the outlets that were established 2004 is catching up to the original outlets established in 1985 which has more outlet sales
 
 
 ![itemssale histogram](https://github.com/eliekawasfr/Prediction-of-Product-Sales/assets/34871626/c289f751-ace4-4fe0-af2f-289f6dbcc4ea)
 ![download (2)](https://github.com/eliekawasfr/Prediction-of-Product-Sales/assets/34871626/e7b06faf-7c75-449d-beb4-7c5a226573e4)
 
-- ## observing the previous histogram and boxplot we can tell that most sales were closer to 2000 USD (1794.331000 usd median) ,but some outliers exist in the range of more than 6501.8699 USD. which means lower value transactions were the most processed (lower value of Item sale outlet occured the most)
+- ## observing the previous histogram and boxplot we can tell that most outlets sales were closer to 2000 (1794.331000 median) ,but some outliers exist in the range of more than 6501.8699

@@ -61,3 +61,17 @@ Increase item outlet sales
 
 
 For any additional questions, please contact **elie.kawas@hotmail.com**
+
+
+
+
+
+- authors note:
+- 
+author: Elie Kawas;
+
+I am Two months old in data science and this is the first project i am working on, trying to achieve results and refine my mindset.
+
+i am of a background of accounting & sound engineering professions, hope this is well explained to the average reader, for recommendations please connect with me:
+
+elie.kawas@hotmail.com
